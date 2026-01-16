@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Teaching"
+title: "Ensignement"
 ---
 
-<h6>Teaching assistant </h6>
+<h6> Mission d’enseignement (dans le cadre du contrat doctoral) :</h6>
 <ul>
 <li> Introduction to Probability Theory and Statistical Methods (B.Sc. Mathematics), Heidelberg University, Winter semester 2025 / 2026. </li>
 <li> Seminar:  Statistical analysis for deconvolution problems (M.Sc. Mathematics), Heidelberg University, Summer semester 2025.</li>  
@@ -16,9 +16,11 @@ title: "Teaching"
 <li> Probability Theory II (M.Sc. Mathematics), Heidelberg University, Summer semester 2022. </li>
 </ul>
 
-<h6>Exercise classes </h6>
+<h6>Chargée de TD pendant mes études de Licence et de Master :</h6>
 <ul>
     <li> Statistical Methods I and II (B.Sc. Economics), Humboldt University Berlin, 2021 - 2022. </li>
   <li> Statistical Methods I (B.Sc. Mathematics), Heidelberg University, Summer semester 2019.</li>
   <li> Linear Algebra (B.Sc. Engineering), Mongolian University of Science and Technology, September - October 2017. </li>
 </ul>
+
+Le cours de Licence sont en Allemand, ceux de Master sont en Anglais.
