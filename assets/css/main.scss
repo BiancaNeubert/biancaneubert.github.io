@@ -11,11 +11,11 @@
 }
 
 .language-switch a {
+  display: inline-flex;  /* ensures the link aligns with other flex items */
+  align-items: center;   /* vertical alignment */
   text-decoration: none;
   font-weight: 600;
   opacity: 0.8;
-  padding-top: 0.25rem;    /* fine-tune vertical alignment */
-  padding-bottom: 0.25rem;
 }
 
 .language-switch a:hover {
