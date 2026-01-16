@@ -1,8 +1,24 @@
-- title: 'Ph.D. Mathematics'
+- lang: en
+  title: 'Ph.D. Mathematics'
   description: 'Heidelberg University (2022-2025)'
 
-- title: 'M.Sc. Statistics'
+- lang: en
+  title: 'M.Sc. Statistics'
   description: 'Free University of Berlin, Charité, Technical University of Berlin and Humboldt University of Berlin  (2019-2022)'
 
-- title: 'B.Sc. Mathematics'
+- lang: en
+  title: 'B.Sc. Mathematics'
   description: 'Heidelberg University (2015-2019)'
+
+  - lang: fr
+  title: 'Doctorat en Mathématiques appliqués (statisiques mathématiques),'
+  description: 'Université de Heidelberg (Allemagne, 2022-2025)'
+
+- lang: fr
+  title: 'Master en Statistiques'
+  description: 'Diplôme de Master conjoint entre : Université libre de Berlin, Charité, Université technique de Berlin et Université Humboldt de Berlin (Allemange, 2019-2022)'
+
+- lang: fr
+  title: 'Licence en Mathématiques'
+  description: 'Université de Heidelberg (Allemagne, 2015-2019)'
+
