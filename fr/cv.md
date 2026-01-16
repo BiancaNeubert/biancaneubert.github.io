@@ -1,4 +1,6 @@
 ---
 layout: cv
-title: "Education"
+title: "Éducation"
+lang: fr
+permalink: /fr/cv/
 ---
