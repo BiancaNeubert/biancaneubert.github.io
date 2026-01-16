@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Publications"
+lang: en
+permalink: /en/publiations/
 ---
 
 <h6> Publications in Peer Reviewed Journals </h6>
