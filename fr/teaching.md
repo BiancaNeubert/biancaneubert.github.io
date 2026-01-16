@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Ensignement"
+lang: fr
+permalink: /fr/ensignement/
 ---
 
 <h6> Mission d’enseignement (dans le cadre du contrat doctoral) :</h6>
