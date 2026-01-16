@@ -13,19 +13,10 @@
       <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
     {% endif %}
   {% endfor %}
-     <!-- Language switch -->
-     <span class="ms-3">
-      {% if page.lang == "en" %}
-        <a class="py-2 text-decoration-none fw-bold"
-           href="{{ site.github.url }}/fr{{ page.url | remove_first: '/en' }}">
-          FR
-        </a>
-      {% else %}
-        <a class="py-2 text-decoration-none fw-bold"
-           href="{{ site.github.url }}/en{{ page.url | remove_first: '/fr' }}">
-          EN
-        </a>
-      {% endif %}
-    </span>
+    <!-- Language switch -->
+  <a class="py-2 text-decoration-none fw-bold language-switch" 
+     href="{% if page.lang == 'en' %}{{ site.github.url }}/fr{{ page.url | remove_first: '/en' }}{% else %}{{ site.github.url }}/en{{ page.url | remove_first: '/fr' }}{% endif %}">
+    {% if page.lang == 'en' %}FR{% else %}EN{% endif %}
+  </a>
   </nav>
 </header>
