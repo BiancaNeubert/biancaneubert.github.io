@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Teaching"
+lang: en
+permalink: /en/teaching/
 ---
 
 <h6>Teaching assistant </h6>
