@@ -1,7 +1,11 @@
 menu:
-- {name: 'publications', url: '{{ site.baseurl }}/publications'}
-- {name: 'education', url: '{{ site.baseurl }}/cv'}
-- {name: 'teaching', url: '{{ site.baseurl }}/teaching'}
+- {name: 'publications', url: '/en/publications'}
+- {name: 'education', url: '/en/cv'}
+- {name: 'teaching', url: '/en/teaching'}
+- {name: 'publications', url: '/fr/publications'}
+- {name: 'éducation', url: '/fr/cv'}
+- {name: 'enseignement', url: '/fr/teaching'}
+
 
 contacts:
 - {name: 'Bianca Neubert', department: 'Institute for Mathematics', institution: 'Heidelberg University', institution_address: 'INF 205, 69120 Heidelberg, Germany', phone: '+49 6221 54 14185', email: 'neubert@math.uni-heidelberg.de', office: '4/411', image: 'assets/img/contact.jpg'}
