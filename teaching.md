@@ -5,7 +5,7 @@ title: "Teaching"
 
 <h6>Teaching assistant </h6>
 <ul>
-<li> Introduction to Probability Theory and Statistical Methods (B.Sc. Mathematics), Heidelberg University, Winter semester 2024 / 2025 and 2025 / 2026. </li>
+<li> Introduction to Probability Theory and Statistical Methods (B.Sc. Mathematics), Heidelberg University, Winter semester 2025 / 2026. </li>
 <li> Seminar:  Statistical analysis for deconvolution problems (M.Sc. Mathematics), Heidelberg University, Summer semester 2025.</li>  
 <li> Statistical Methods I (B.Sc. Mathematics), Heidelberg University, Winter semester 2024 / 2025.</li>
 <li> Seminar: Extreme value theory  (B.Sc. Mathematics), Heidelberg University, Winter semester 2024 / 2025.</li>  
