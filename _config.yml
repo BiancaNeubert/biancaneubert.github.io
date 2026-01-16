@@ -2,3 +2,8 @@ url: "https://biancaneubert.github.io/" # the base hostname & protocol for your 
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Bianca Neubert" # the name of your site, e.g. ACME Corp.
 description: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "en"
