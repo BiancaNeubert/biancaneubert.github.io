@@ -11,5 +11,19 @@
     {% for item in site.data.settings.menu %}
       <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
+     <!-- Language switch -->
+     <span class="ms-3">
+      {% if page.lang == "en" %}
+        <a class="py-2 text-decoration-none fw-bold"
+           href="{{ site.github.url }}/fr{{ page.url | remove_first: '/en' }}">
+          FR
+        </a>
+      {% else %}
+        <a class="py-2 text-decoration-none fw-bold"
+           href="{{ site.github.url }}/en{{ page.url | remove_first: '/fr' }}">
+          EN
+        </a>
+      {% endif %}
+    </span>
   </nav>
 </header>
