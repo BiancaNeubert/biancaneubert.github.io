@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: "Éducation"
+title: "Formation"
 lang: fr
 permalink: /fr/cv/
 ---
