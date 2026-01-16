@@ -2,5 +2,5 @@
 layout: cv
 title: "Education"
 lang: en
-permalink: /en/education/
+permalink: /en/cv/
 ---
