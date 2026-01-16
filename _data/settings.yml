@@ -1,10 +1,10 @@
 menu:
-- {name: 'publications', url: '/en/publications'}
-- {name: 'education', url: '/en/cv'}
-- {name: 'teaching', url: '/en/teaching'}
-- {name: 'publications', url: '/fr/publications'}
-- {name: 'éducation', url: '/fr/cv'}
-- {name: 'enseignement', url: '/fr/teaching'}
+- {name: 'publications', url: '/en/publications', lang: 'en'}
+- {name: 'education', url: '/en/cv', lang: 'en'}
+- {name: 'teaching', url: '/en/teaching', lang: 'en'}
+- {name: 'publications', url: '/fr/publications', lang: 'fr'}
+- {name: 'éducation', url: '/fr/cv', lang: 'fr'}
+- {name: 'enseignement', url: '/fr/teaching', lang: 'fr'}
 
 
 contacts:
