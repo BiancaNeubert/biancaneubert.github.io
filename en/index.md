@@ -11,6 +11,9 @@ I am interested in adaptive nonparametric estimation and hypothesis testing for 
 
 Currently seeking postdoctoral opportunities — feel free to contact me!
 
+<div class="mb-5">
+  {{ content }}
+</div>
 
 <h5> Publications in Peer Reviewed Journals </h5>
 <ul>
