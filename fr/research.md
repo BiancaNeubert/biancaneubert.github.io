@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Publications"
+title: "Recherche"
 lang: fr
-permalink: /fr/publications/
+permalink: /fr/research/
 ---
 
 <h6> Articles publiés </h6>
