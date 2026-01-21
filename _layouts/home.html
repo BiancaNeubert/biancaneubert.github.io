@@ -4,23 +4,24 @@ layout: default
 
 <div class="container">
 
-  <!-- Top section -->
+  <!-- Article top -->
   <div class="mb-5">
 
     <img
       src="{{ site.github.url }}/assets/img/test.jpg"
       alt="Home"
-      class="img-fluid float-md-end ms-md-4 mb-3"
-      style="max-width: 250px;"
+      class="float-md-end ms-md-4 mb-3"
+      style="max-width: 220px;"
     >
 
     {{ content }}
 
   </div>
 
-  <!-- Full width content after image -->
+  <!-- Clear the float so next content is full width -->
   <div class="clearfix"></div>
 
+  <!-- Content after image -->
   <div class="mb-5">
     {{ content_after_image }}
   </div>
