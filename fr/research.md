@@ -17,3 +17,13 @@ permalink: /fr/research/
 </ul>
 
 ---
+<h5> Communications orales et posters </h5>
+
+03/2025: German Probability and Statistic Days, Dresden (Allemange).
+08/2024: Bernoulli World Congress, Bochum (Allemange, poster).
+06/2024: Workshop : Statistics in the Era of AI, Oberwolfach (Allemagne).
+03/2024: Rencontres des Jeunes Staticien.ne.s, Porquerolles (France).
+11/2023: Séminaire : Groupe de Travail des Ephémères, MAP5, Paris (France, invitée).
+07/2023: HKMetrics, Karlsruhe (Allemagne).
+07/2023: European Meeting of Statisticians, Varsovie (Pologne).
+05/2023: RTG Séminaire, Mannheim/Heidelberg (Allemagne).
