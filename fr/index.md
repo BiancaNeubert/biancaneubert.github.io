@@ -9,7 +9,6 @@ J'ai soutenu ma thèse de doctorat intitulée  <a href="https://archiv.ub.uni-he
 
 Je m'intéresse à l'estimation non paramétrique adaptative et aux tests d'hypothèse pour les densités et les fonctionnelles quadratiques dans les modèles de (dé)convolution additifs et multiplicatifs.
 
-Je recherche actuellement des opportunités de post-doctorat — n'hésitez pas à me contacter !
 
 
 <h5> Articles </h5>
