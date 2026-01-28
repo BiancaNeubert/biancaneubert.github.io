@@ -9,8 +9,6 @@ I defended my PhD thesis entitled  <a href="https://archiv.ub.uni-heidelberg.de/
 
 I am interested in adaptive nonparametric estimation and hypothesis testing for densities and quadratic functionals in additive and multiplicative (de-) convolution models.
 
-Currently seeking postdoctoral opportunities — feel free to contact me!
-
 
 
 <h5> Publications</h5>
