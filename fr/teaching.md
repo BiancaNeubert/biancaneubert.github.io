@@ -25,7 +25,7 @@ pour chaque) :</h7>
 </ul>
 
 
-<h5>Chargée de TD pendant mes études de Licence et de Master :</h5>
+<h5>Chargée de TD pendant mes études de Licence et de Master </h5>
 <ul>
   <li> Statistical Methods I and II (B.Sc. Economics), Humboldt University Berlin, 2021 - 2022, ~60h. </li>
   <li> Statistical Methods I (B.Sc. Mathematics), Heidelberg University, Summer semester 2019, 30h.</li>
