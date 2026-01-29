@@ -5,7 +5,7 @@ lang: fr
 permalink: /fr/teaching/
 ---
 
-<h6> Mission d’enseignement (dans le cadre du contrat doctoral) </h6>
+<h5> Mission d’enseignement (dans le cadre du contrat doctoral) </h5>
 
 <h7>Assistante de TD et de CM, dont administration et logistique (30h par semestre pour chaque) :</h7>
 <ul>
@@ -25,7 +25,7 @@ pour chaque) :</h7>
 </ul>
 
 
-<h6>Chargée de TD pendant mes études de Licence et de Master :</h6>
+<h5>Chargée de TD pendant mes études de Licence et de Master :</h5>
 <ul>
   <li> Statistical Methods I and II (B.Sc. Economics), Humboldt University Berlin, 2021 - 2022, ~60h. </li>
   <li> Statistical Methods I (B.Sc. Mathematics), Heidelberg University, Summer semester 2019, 30h.</li>
