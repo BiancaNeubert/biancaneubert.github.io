@@ -5,7 +5,7 @@ title: Accueil
 permalink: /fr/
 ---
 
-Je suis post-doctorant du <a href="https://sip.math.uni-heidelberg.de/fr/index.html" target="_blank">groupe de recherche en statistiques des problèmes inverses</a> de l'université de Heidelberg, sous la direction de <a href="https://www.janjohannes.de/fr/index.html" target="_blank">Jan Johannes</a>. J'ai soutenu ma thèse de doctorat intitulée <a href="https://archiv.ub.uni-heidelberg.de/volltextserver/37748/" target="_blank">«Nonparametric inference in convolution models»</a>  (Inferences non paramétriques dans les modèles de convolution) sous la direction de Jan Johannes et Fabienne Comte le 4 décembre 2025.
+Je suis post-doctorante du <a href="https://sip.math.uni-heidelberg.de/fr/index.html" target="_blank">groupe de recherche en statistiques des problèmes inverses</a> de l'université de Heidelberg, sous la direction de <a href="https://www.janjohannes.de/fr/index.html" target="_blank">Jan Johannes</a>. J'ai soutenu ma thèse de doctorat intitulée <a href="https://archiv.ub.uni-heidelberg.de/volltextserver/37748/" target="_blank">«Nonparametric inference in convolution models»</a>  (Estimation non paramétrique dans des modèles de convolution) sous la direction de Jan Johannes et Fabienne Comte le 4 décembre 2025, à Heidelberg.
 
 
 Je m'intéresse à l'estimation non paramétrique et les tests d'hypothèse dans les modèles de (dé)convolution additifs et multiplicatifs.
