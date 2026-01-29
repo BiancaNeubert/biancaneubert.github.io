@@ -25,4 +25,4 @@ permalink: /fr/teaching/
   <li> Linear Algebra (B.Sc. Engineering), Mongolian University of Science and Technology, September - October 2017. </li>
 </ul>
 
-Le cours de Licence sont en Allemand, ceux de Master sont en Anglais.
+Les cours de Licence sont en Allemand, ceux de Master sont en Anglais.
