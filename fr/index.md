@@ -15,6 +15,6 @@ Je m'intéresse à l'estimation non paramétrique et les tests d'hypothèse dans
 <ul>
 <li> <a href="https://arxiv.org/abs/2512.01838" target="_blank">Goodness-of-fit testing from observations with multiplicative measurement error</a>, en collaboration avec J. Johannes (2025), pré-publication. </li>
 <li> <a href="https://doi.org/10.1214/25-EJS2477" target="_blank"> Estimation for the convolution of several multidimensional densities</a>, en collaboration avec F. Comte, Electronic Journal of Statistics, 19(2) 6040-6076 (2025). </li> 
-<li> <a href="https://doi.org/10.1007/s10463-025-00936-x" target="_blank">Quadratic functional estimation from observations with multiplicative measurement error</a>, en collaboration avec F. Comte and J. Johannes,  Annals of the Institute of Statistical Mathematics (2025). </li>
+<li> <a href="https://doi.org/10.1007/s10463-025-00936-x" target="_blank">Quadratic functional estimation from observations with multiplicative measurement error</a>, en collaboration avec F. Comte and J. Johannes,  Annals of the Institute of Statistical Mathematics, 78, 1-41, 2026. </li>
 </ul>
 
