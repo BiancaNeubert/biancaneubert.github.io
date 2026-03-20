@@ -20,6 +20,7 @@ permalink: /en/research/
 
 <h5> Talks and posters</h5>
 <ul>
+<li> 03/2026: Pathways into Mathematics of SPDEs: A Workshop for Young Researchers, Heidelberg (Germany, poster). </li> 
 <li> 03/2025: German Probability and Statistic Days, Dresden (Germany).</li>
 <li> 08/2024: Bernoulli World Congress, Bochum (Germany, poster).</li>
 <li> 06/2024: Workshop: Statistics in the Era of AI, Oberwolfach (Germany).</li>
