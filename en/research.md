@@ -14,12 +14,14 @@ permalink: /en/research/
 <h5> Preprints </h5>
 <ul>
 <li> <a href="https://arxiv.org/abs/2512.01838" target="_blank">Goodness-of-fit testing from observations with multiplicative measurement error</a>, with J. Johannes (2025). </li>
+<li> <a href="https://hal.science/hal-05669936" target="_blank">Adaptive nonparametric regression from repeated measurements under common noise</a>, with F. Comte (2026). </li>
 </ul>
 
 ---
 
 <h5> Talks and posters</h5>
 <ul>
+<li> 06/2026: 57es Journées de Statistique (Clermont-Ferrand). </li>  
 <li> 03/2026: Pathways into Mathematics of SPDEs: A Workshop for Young Researchers, Heidelberg (Germany, poster). </li> 
 <li> 03/2025: German Probability and Statistic Days, Dresden (Germany).</li>
 <li> 08/2024: Bernoulli World Congress, Bochum (Germany, poster).</li>
