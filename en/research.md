@@ -21,7 +21,7 @@ permalink: /en/research/
 
 <h5> Talks and posters</h5>
 <ul>
-<li> 06/2026: 57es Journées de Statistique (Clermont-Ferrand). </li>  
+<li> 06/2026: 57es Journées de Statistique, Clermont-Ferrand (France). </li>  
 <li> 03/2026: Pathways into Mathematics of SPDEs: A Workshop for Young Researchers, Heidelberg (Germany, poster). </li> 
 <li> 03/2025: German Probability and Statistic Days, Dresden (Germany).</li>
 <li> 08/2024: Bernoulli World Congress, Bochum (Germany, poster).</li>
