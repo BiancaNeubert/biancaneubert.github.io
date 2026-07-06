@@ -13,6 +13,7 @@ permalink: /fr/research/
 
 <h5> Prépublications </h5>
 <ul>
+<li> <a href="https://hal.science/hal-05669936" target="_blank">Adaptive nonparametric regression from repeated measurements under common noise</a>, en collaboration avec F. Comte (2026). </li>
 <li> <a href="https://arxiv.org/abs/2512.01838" target="_blank">Goodness-of-fit testing from observations with multiplicative measurement error</a>, en collaboration avec J. Johannes (2025). </li>
 </ul>
 
