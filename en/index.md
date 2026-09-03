@@ -5,11 +5,16 @@ title: Home
 permalink: /en/
 ---
 
-Currently, I am a post-doc at the in the <a href="https://sip.math.uni-heidelberg.de/en/index.html" target="_blank">Statistics of inverse problems Research Group</a> of  <a href="https://www.janjohannes.de/en/index.html" target="_blank">Jan Johannes</a> at Heidelberg University.
+Since September 2026, I am a post-doc at MAP5 under the supervision of <a href="https://www.lpsm.paris/users/fischer/fischer_en" target="_blank">Aurélie Fischer</a> and <a href="https://aroche01.pages.math.cnrs.fr/index/" target="_blank">Angelina Roche</a> with the <a href="https://complexcite.u-pariscite.fr/postdoc/" target="_blank">ComplexCité 2026 postdoctoral fellowship</a> at Université Paris Cité.
+
 I defended my PhD thesis entitled  <a href="https://archiv.ub.uni-heidelberg.de/volltextserver/37748/" target="_blank">"Nonparametric inference in convolution models"</a> supervised by Jan Johannes and <a href="https://helios2.mi.parisdescartes.fr/~comte/" target="_blank">Fabienne Comte</a> on the 4th December 2025 in Heidelberg.
 
-My reasearch includes nonparametric estimation and hypothesis testing in additive and multiplicative (de-) convolution models.
-
+My reasearch intersts include
+<ul>
+  <li>Nonparametric estimation and hypothesis testing</li>
+  <li>Additive and multiplicative (de-)convolution models</li>
+  <li>Funcitonal data analysis</li>
+</ul>
 
 
 <h5> Publications</h5>
