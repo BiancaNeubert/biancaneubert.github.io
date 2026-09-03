@@ -9,7 +9,7 @@ Since September 2026, I am a post-doc at MAP5 and LPSM on the topic “Non-param
 
 I defended my PhD thesis entitled  <a href="https://archiv.ub.uni-heidelberg.de/volltextserver/37748/" target="_blank">"Nonparametric inference in convolution models"</a> supervised by <a href="https://www.janjohannes.de" target="_blank">Jan Johannes</a> and <a href="https://helios2.mi.parisdescartes.fr/~comte/" target="_blank">Fabienne Comte</a> on the 4th December 2025 in Heidelberg.
 
-My reasearch intersts include
+My reasearch intersts include:
 <ul>
   <li>Nonparametric estimation and hypothesis testing</li>
   <li>Additive and multiplicative (de-)convolution models</li>
