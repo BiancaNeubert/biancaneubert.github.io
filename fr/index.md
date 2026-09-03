@@ -9,7 +9,7 @@ permalink: /fr/
 
 J'ai soutenu ma thèse de doctorat intitulée <a href="https://archiv.ub.uni-heidelberg.de/volltextserver/37748/" target="_blank">«Nonparametric inference in convolution models»</a>  (Estimation non paramétrique dans des modèles de convolution) sous la direction de <a href="https://www.janjohannes.de/fr/index.html" target="_blank">Jan Johannes</a> et <a href="https://helios2.mi.parisdescartes.fr/~comte/" target="_blank">Fabienne Comte</a> le 4 décembre 2025, à Heidelberg.
 
-Mes thèmes de recherche comprennent 
+Mes thèmes de recherche comprennent :
 <ul>
   <li>Estimation non paramétrique et les tests d'hypothèse </li>
   <li>Modèles de (dé)convolution additifs et multiplicatifs</li>
