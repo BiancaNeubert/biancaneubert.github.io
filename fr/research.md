@@ -20,6 +20,7 @@ permalink: /fr/research/
 ---
 <h5> Communications orales et posters </h5>
 <ul>
+<li> 10/2026: Séminaire Parisien de Statistique (France). </li> 
 <li> 06/2026: 57es Journées de Statistique, Clermont-Ferrand (France). </li>  
 <li> 03/2026: Pathways into Mathematics of SPDEs: A Workshop for Young Researchers, Heidelberg (Allemagne, poster). </li> 
 <li> 03/2025: German Probability and Statistic Days, Dresden (Allemagne).</li>
